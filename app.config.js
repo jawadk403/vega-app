@@ -127,9 +127,9 @@ module.exports = () => {
         ],
         config: {requestLegacyExternalStorage: true},
         allowBackup: true,
-        icon: './assets/icon.svg',
+        icon: './assets/icon.png',
         adaptiveIcon: {
-          foregroundImage: './assets/adaptive_icon.svg',
+          foregroundImage: './assets/adaptive_icon.png',
           backgroundColor: '#000000',
         },
         launchMode: 'singleTask',

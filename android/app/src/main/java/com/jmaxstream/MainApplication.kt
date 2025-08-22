@@ -1,4 +1,4 @@
-package com.vega
+package com.jmaxstream
 
 import android.app.Application
 import android.content.res.Configuration
