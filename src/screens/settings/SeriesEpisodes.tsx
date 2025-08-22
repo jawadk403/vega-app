@@ -81,7 +81,7 @@ const SeriesEpisodes = ({navigation, route}: SeriesEpisodesRouteProp) => {
                     directUrl: item.uri,
                     primaryTitle: fileName,
                     poster: {},
-                    providerValue: 'vega',
+                    providerValue: 'jmax-stream',
                   });
                 }}>
                 <View className="w-32 h-full relative">

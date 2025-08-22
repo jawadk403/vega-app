@@ -100,7 +100,7 @@ const Hero = memo(({isDrawerOpen, drawerRef}: HeroProps) => {
   // Memoized image source
   const imageSource = React.useMemo(() => {
     const fallbackImage =
-      'https://placehold.jp/24/363636/ffffff/500x500.png?text=Vega';
+              'https://placehold.jp/24/363636/ffffff/500x500.png?text=JMAX+STREAM';
     if (!heroData) {
       return {uri: fallbackImage};
     }

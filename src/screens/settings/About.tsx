@@ -77,7 +77,7 @@ export const checkForUpdate = async (
   setUpdateLoading(true);
   try {
     const res = await fetch(
-      'https://api.github.com/repos/Zenda-Cross/vega-app/releases/latest',
+              'https://api.github.com/repos/Zenda-Cross/jmax-stream/releases/latest',
     );
     const data = await res.json();
     const localVersion = Application.nativeApplicationVersion;

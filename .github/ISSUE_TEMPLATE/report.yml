@@ -1,5 +1,5 @@
 name: 🐞 Bug Report
-description: Report a bug or issue with the Vega app
+description: Report a bug or issue with the JMAX STREAM app
 labels: [bug]
 body:
 
@@ -26,9 +26,9 @@ body:
 
 
     - type: input
-      id: vega-version
+      id: jmax-stream-version
       attributes:
-          label: Vega version
+          label: JMAX STREAM version
           description: Specify the version of the app you are using.
           placeholder: |
               Example: "1.0"

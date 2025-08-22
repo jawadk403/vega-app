@@ -1,7 +1,7 @@
 {
   "servers": {
-    "vega-providers": {
-      "url": "https://zenda-cross.gitmcp.io/vega-providers"
+      "jmax-stream-providers": {
+    "url": "https://zenda-cross.gitmcp.io/jmax-stream-providers"
     }
   }
 }

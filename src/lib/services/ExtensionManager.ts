@@ -10,7 +10,7 @@ import {
 export class ExtensionManager {
   private static instance: ExtensionManager;
   private baseUrl =
-    'https://raw.githubusercontent.com/Zenda-Cross/vega-providers/refs/heads/main';
+    'https://raw.githubusercontent.com/Zenda-Cross/jmax-stream-providers/refs/heads/main';
 
   private testMode = false;
   private baseUrlTestMode = '';

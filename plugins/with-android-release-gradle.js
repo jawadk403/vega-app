@@ -21,7 +21,7 @@ module.exports = function withAndroidReleaseGradle(config) {
 if (project.android) {
   project.android.applicationVariants.all { variant ->
     variant.outputs.each { output ->
-      project.ext { appName = 'Vega' }
+              project.ext { appName = 'JMAX STREAM' }
       def version = variant.versionName
       def newName = output.outputFile.name
             // Keep project.ext.appName as a Gradle variable (escaped from Node template evaluation)

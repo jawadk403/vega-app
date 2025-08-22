@@ -385,7 +385,7 @@ const Downloads = () => {
                     directUrl: file.uri,
                     primaryTitle: item.title,
                     poster: {},
-                    providerValue: 'vega',
+                    providerValue: 'jmax-stream',
                   });
                 } else {
                   navigation.navigate('TabStack', {
