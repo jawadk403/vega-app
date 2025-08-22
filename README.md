@@ -1,6 +1,6 @@
 ![vega-high-resolution-logo-transparent](https://github.com/Zenda-Cross/vega-app/assets/143804558/b2eb446f-8e7f-4800-81e1-3320c82f33de)
 
-# Vega-App
+# JMAX STREAM
 Android app for streaming media.
 ### Features
 - Steam and Download Ad-Free.
@@ -46,10 +46,10 @@ ___
 
 1. clone
      ```bash
-     git clone https://github.com/Zenda-Cross/vega-app.git
+     git clone https://github.com/Zenda-Cross/jmax-stream.git
      ```
      ```
-     cd vega-app
+     cd jmax-stream
      ```
 2. Install
      ```
@@ -69,7 +69,7 @@ https://reactnative.dev/docs/signed-apk-android
 
 ---
 > [!IMPORTANT]
-> Vega App does not store any media files on our servers and is not directly linked to the media. Third-party services host all media, and Vega App merely provides a search and web scraping tool that indexes publicly available data. We are not responsible for the content or availability of the media, as we do not host or control any of it.
+> JMAX STREAM does not store any media files on our servers and is not directly linked to the media. Third-party services host all media, and JMAX STREAM merely provides a search and web scraping tool that indexes publicly available data. We are not responsible for the content or availability of the media, as we do not host or control any of it.
 
 
 ## Stars

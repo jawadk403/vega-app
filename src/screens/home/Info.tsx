@@ -129,7 +129,7 @@ export default function Info({route, navigation}: Props): React.JSX.Element {
       meta?.poster ||
       route.params.poster ||
       info?.image ||
-      'https://placehold.jp/24/363636/ffffff/500x500.png?text=Vega'
+      'https://placehold.jp/24/363636/ffffff/500x500.png?text=JMAX+STREAM'
     );
   }, [meta?.poster, route.params.poster, info?.image]);
 
@@ -137,7 +137,7 @@ export default function Info({route, navigation}: Props): React.JSX.Element {
     return (
       meta?.background ||
       info?.image ||
-      'https://placehold.jp/24/363636/ffffff/500x500.png?text=Vega'
+      'https://placehold.jp/24/363636/ffffff/500x500.png?text=JMAX+STREAM'
     );
   }, [meta?.background, info?.image]);
   const filteredLinkList = useMemo(() => {
