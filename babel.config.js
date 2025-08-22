@@ -10,7 +10,7 @@ module.exports = {
         },
       },
     ],
-    'nativewind/babel',
+    ['nativewind/babel', { mode: 'compileOnly' }],
     'react-native-reanimated/plugin',
   ],
 };
